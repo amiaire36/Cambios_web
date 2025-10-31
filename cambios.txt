@@ -1,0 +1,2 @@
+Se han cambiado las imagenes de muestra al hacer click en ellas.
+El tipo de letra también ha sido cambiado.
